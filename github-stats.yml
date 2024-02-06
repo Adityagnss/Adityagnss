@@ -18,11 +18,11 @@ jobs:
       - name: Install GitHub Readme Stats
         run: npm install -g github-readme-stats
       - name: Generate Stats
-        run: github-readme-stats --username your-github-username --theme=default --layout=default --hide_title=true --custom_title="GitHub Stats" --hide_border=true --include_all_commits=true --count_private=true --hide_rank=true --hide_progress=true --cache_seconds=1800 --locale=en
+        run: github-readme-stats --Adityagnss your-github-Adityagnss --theme=default --layout=default --hide_title=true --custom_title="GitHub Stats" --hide_border=true --include_all_commits=true --count_private=true --hide_rank=true --hide_progress=true --cache_seconds=1800 --locale=en
       - name: Commit Changes
         run: |
-          git config --global user.email "you@example.com"
-          git config --global user.name "Your Name"
+          git config --global user.email "adityagnss@gmail.com"
+          git config --global user.name "GNSS ADITYA"
           git add README.md
           git commit -m "Updated GitHub Stats"
           git push

@@ -1,21 +1,33 @@
-# 💫 About Me:
-Passionate about coding and self-improvement, I thrive on the thrill of crafting lines of code into functional<br>solutions. <br>Each programming challenge is an opportunity to learn and innovate. <br>Continuous growth is my mantra;<br> I'm dedicated to expanding my skill set, diving deeper into programming languages and<br>frameworks. 
 
+<h1 align="center">Hello there! 👋 I'm GNSS ADITYA</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Languages-Python%20|%20C++%20|%20C%20|%20Java-blue" alt="Languages">
+  <img src="https://img.shields.io/badge/Frontend-HTML-orange" alt="Frontend">
+  <img src="https://img.shields.io/badge/Cloud-AWS%20|%20S3-yellow" alt="Cloud">
+  <img src="https://img.shields.io/badge/ML-Supervised%20|%20Regression%20|%20Classification-green" alt="Machine Learning">
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_rockey_.42/?hl=bg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-gnss-31101b252/) 
+<p align="center">
+  <img src="https://img.shields.io/badge/Hobbies-Photography%20|%20Reading%20|%20Painting%20|%20Traveling-lightgrey" alt="Hobbies">
+  <img src="https://img.shields.io/badge/Career%20Development-Learning%20New%20Skills-brightgreen" alt="Career Development">
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+## About Me
+I am a Data Structures and Algorithms enthusiast with experience in various programming languages and technologies. My journey includes mastering fundamentals in Python, C++, C, Java, and Front End development with HTML. I have a keen interest in cloud technologies, particularly AWS S3. Additionally, I've dabbled in Supervised Machine Learning, focusing on Regression and Classification models.
 
-## GitHub Stats
-![GitHub Stats](https://github.com/Adityagnss )
-
+## Hobbies
+- *Photography:* Capturing moments and scenes through photography is my creative outlet, allowing me to document life and surroundings.
+- *Reading:* I enjoy diving into books, magazines, or articles on topics of personal interest.
+- *Artistic Expression:* Painting, drawing, sculpting, or crafting provides me with creative expression and stress relief.
+- *Travel:* Exploring new places, cultures, and cuisines enriches my life and offers adventurous experiences.
+- *Continuous Learning:* I am passionate about learning new skills to further my career development.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://visitcount.itsvg.in/api?id=Adityagnss&icon=0&color=0)](https://visitcount.itsvg.in)
+## Connect with Me
+Feel free to reach out and connect with me on [LinkedIn](https://github.com/Adityagnss)!
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_rockey_.42/?hl=bg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-gnss-31101b252/) 
+

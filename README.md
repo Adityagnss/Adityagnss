@@ -11,7 +11,7 @@
 </p>
 
 ## About Me
-I am Gadey Aditya, a 3rd-year B.Tech Computer Science student at SRM University with a CGPA of 8.55. I am
+I am Gadey Aditya, a 3rd-year B.Tech Computer Science student at SRM University. I am
 passionate about leveraging technology to solve real-world problems and possess strong skills in Python, Machine
 Learning, Full Stack Development, and Data Structures. With a proactive mindset, I continuously seek out new tools
 and challenges to grow both personally and professionally.

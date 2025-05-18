@@ -11,7 +11,10 @@
 </p>
 
 ## About Me
-I am a Data Structures and Algorithms enthusiast with experience in various programming languages and technologies. My journey includes mastering fundamentals in Python, C++, C, Java, and Front End development with HTML. I have a keen interest in cloud technologies, particularly AWS S3. Additionally, I've dabbled in Supervised Machine Learning, focusing on Regression and Classification models.
+I am Gadey Aditya, a 3rd-year B.Tech Computer Science student at SRM University with a CGPA of 8.55. I am
+passionate about leveraging technology to solve real-world problems and possess strong skills in Python, Machine
+Learning, Full Stack Development, and Data Structures. With a proactive mindset, I continuously seek out new tools
+and challenges to grow both personally and professionally.
 
 ## Hobbies
 - *Photography:* Capturing moments and scenes through photography is my creative outlet, allowing me to document life and surroundings.

@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I am **Gadey Aditya**, a 3rd-year B.Tech Computer Science student at **SRM University**, passionate about leveraging technology to solve real-world problems. My technical strengths lie in **Python, Machine Learning, Full Stack Development**, and **Data Structures**.
+I am **Gadey Aditya**, a Final-year B.Tech Computer Science student at **SRM University**, passionate about leveraging technology to solve real-world problems. My technical strengths lie in **Python, Machine Learning, Full Stack Development**, and **Data Structures**.
 
 - 🔭 Currently exploring **Deep Learning**, **Cloud Architecture**, and **Big Data**.
 - 🌱 Constantly upgrading my skills through **projects, certifications, and hackathons**.

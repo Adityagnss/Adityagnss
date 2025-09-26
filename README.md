@@ -85,7 +85,7 @@ I am **Gadey Aditya**, a Final-year B.Tech Computer Science student at **SRM Uni
 
 ---
 
-- 🔗 Portfolio: [adityagnss.github.io/Portfolio.Main](https://adityagnss.github.io/Portfolio.Main/)
+- 🔗 Portfolio: [Portfolio](https://adityagadey.netlify.app/)
 - 📬 Email: **adityagnss@gmail.com**
 - 👁️ Profile views: <img src="https://komarev.com/ghpvc/?username=adityagnss&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
